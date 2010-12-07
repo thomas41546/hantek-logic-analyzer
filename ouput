@@ -1,0 +1,30 @@
+dso_init: DSO found
+main: DSO Offsets:
+main: Channel 1
+main: 0.01V: 1200 - 8200
+main: 0.02V: 700 - 7800
+main: 0.05V: 500 - 7500
+main: 0.10V: 1200 - 8200
+main: 0.20V: 700 - 7700
+main: 0.50V: 500 - 7400
+main: 1.00V: 1200 - 8200
+main: 2.00V: 700 - 7700
+main: 5.00V: 500 - 7400
+main: 
+main: Channel 2
+main: 0.01V: 1500 - 8300
+main: 0.02V: 800 - 7700
+main: 0.05V: 500 - 7300
+main: 0.10V: 1500 - 8300
+main: 0.20V: 900 - 7600
+main: 0.50V: 500 - 7300
+main: 1.00V: 1500 - 8300
+main: 2.00V: 800 - 7600
+main: 5.00V: 500 - 7300
+main: 
+main: trigger: 0xff - 0xff
+main: 
+main: initilized
+dso_thread: DSO thread started
+main: started
+dso_thread: empty
